@@ -1,0 +1,35 @@
+body
+{background-color: lightblue;}
+
+#div{
+    background-color: white;
+    position: relative;
+    width: 650px;
+    height: 900px;
+    border-radius: 5%;
+    top: 50px;
+    left: 650px; 
+    margin: 10px;
+}
+img{
+    position: absolute;
+    border-radius: 5%;
+    top: 35px;
+    left: 35px;
+}
+.top{
+    font-weight: 700;
+    font-size: large;
+}
+.bottom{
+    font-weight: 400;
+    font-size: 15px;
+}
+p{
+    font-family: "Outfit";
+    position: relative;
+    text-align: center;
+    top: 70%;
+    left: 0%;
+
+}
